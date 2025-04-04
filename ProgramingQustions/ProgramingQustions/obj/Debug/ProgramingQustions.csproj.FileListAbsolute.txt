@@ -1,0 +1,7 @@
+C:\Users\nithi\OneDrive\Desktop\Program_\ProgramingQustions\ProgramingQustions\bin\Debug\ProgramingQustions.exe.config
+C:\Users\nithi\OneDrive\Desktop\Program_\ProgramingQustions\ProgramingQustions\bin\Debug\ProgramingQustions.exe
+C:\Users\nithi\OneDrive\Desktop\Program_\ProgramingQustions\ProgramingQustions\bin\Debug\ProgramingQustions.pdb
+C:\Users\nithi\OneDrive\Desktop\Program_\ProgramingQustions\ProgramingQustions\obj\Debug\ProgramingQustions.csproj.AssemblyReference.cache
+C:\Users\nithi\OneDrive\Desktop\Program_\ProgramingQustions\ProgramingQustions\obj\Debug\ProgramingQustions.csproj.CoreCompileInputs.cache
+C:\Users\nithi\OneDrive\Desktop\Program_\ProgramingQustions\ProgramingQustions\obj\Debug\ProgramingQustions.exe
+C:\Users\nithi\OneDrive\Desktop\Program_\ProgramingQustions\ProgramingQustions\obj\Debug\ProgramingQustions.pdb
